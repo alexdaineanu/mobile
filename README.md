@@ -10,4 +10,9 @@ Each student should define the features for an app that will support, at least, 
 * animations
 
 ### My idea
-My idea is to create an application which allows you to 
+My idea is to create an application which allows you to manage food recipe:
+* recipe CRUD
+* photos
+* send recipe on email
+* export/import recipe
+* get random recipe (recipe of the day)
